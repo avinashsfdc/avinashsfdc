@@ -57,26 +57,24 @@
 <!-- SECTION 4 — SALESFORCE CERTIFICATIONS -->
 <!-- ============================================================= -->
 
-## 🎓 Salesforce Certifications
+## 🏆 Salesforce Certifications
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-Certified%20Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="PD1" />
+  <img src="https://img.shields.io/badge/Salesforce-Certified%20Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Administrator" />
+  <img src="https://img.shields.io/badge/Salesforce-Certified%20Platform%20App%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="App Builder" />
+  <img src="https://img.shields.io/badge/Salesforce-Certified%20Industries%20CPQ%20Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="CPQ" />
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agentforce" />
+</p>
 
-<img src="https://img.shields.io/badge/Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="PD1" />
-<img src="https://img.shields.io/badge/Certified%20Administrator-032D60?style=for-the-badge&logo=salesforce&logoColor=white" alt="Admin" />
-<img src="https://img.shields.io/badge/Platform%20App%20Builder-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="App Builder" />
-<br/>
-<img src="https://img.shields.io/badge/Industries%20CPQ%20Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="CPQ" />
-<img src="https://img.shields.io/badge/Agentforce%20Specialist-032D60?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agentforce" />
+<p align="center">
+  <a href="https://www.salesforce.com/trailblazer/avinashb1998">
+    <img src="https://img.shields.io/badge/🔗%20View%20My%20Trailblazer%20Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="trailblazer profile" />
+  </a>
+</p>
 
-<br/><br/>
-
-### 🏅 Verify all credentials on my Trailblazer profile
-
-<a href="https://www.salesforce.com/trailblazer/avinashb1998">
-  <img src="https://img.shields.io/badge/View%20Trailblazer%20Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="trailblazer profile" />
-</a>
-
-</div>
+<h3 align="center">🏆 5x Salesforce Certified Professional</h3>
+<h3 align="center">Salesforce Developer · Apex Developer · LWC Specialist · Agentforce Specialist</h3>
 
 <br/>
 
@@ -257,21 +255,22 @@
 <br/>
 
 <!-- ============================================================= -->
-<!-- SECTION 10 — ACHIEVEMENTS -->
+<!-- SECTION 10 — CAREER HIGHLIGHTS -->
 <!-- ============================================================= -->
 
-## 🌟 Achievements
+## 🚀 Career Highlights
 
-✅ **6+ Years** of professional Salesforce experience
-✅ **Enterprise implementations** with custom apps and ERP integrations
-✅ **Healthcare** — HIPAA-compliant EHR integrations at BJC HealthCare (+20% reliability)
-✅ **Banking** — Sales & Service Cloud at Standard Chartered (-30% manual handling)
-✅ **Manufacturing** — scalable data models & ERP workflows at Emerson Electric (-25% errors)
-✅ **Insurance** — automated policy workflows at TCS (+25% submission speed)
-✅ **API integration expertise** across REST, SOAP, Bulk, and Streaming
-✅ **CI/CD automation** with Jenkins, Copado, and Gearset (-40% deployment errors)
-✅ **80%+ Apex code coverage** with bulk, negative, and edge-case testing
-✅ **5 Salesforce certifications** spanning developer, admin, CPQ, and AI tracks
+✅ **6+ Years** of Salesforce experience
+✅ **5x Salesforce Certified** — Platform Developer I · Administrator · Platform App Builder · Industries CPQ Developer · Agentforce Specialist
+✅ Experience across **Manufacturing, Healthcare, Banking & Insurance**
+✅ **Enterprise Salesforce implementations** with custom apps and ERP integrations
+✅ **Healthcare** — HIPAA-compliant EHR integrations at BJC HealthCare *(+20% reliability)*
+✅ **Banking** — Sales & Service Cloud at Standard Chartered *(-30% manual handling)*
+✅ **Manufacturing** — scalable data models & ERP workflows at Emerson Electric *(-25% errors)*
+✅ **Insurance** — automated policy workflows at TCS *(+25% submission speed)*
+✅ **API integrations & middleware** across REST, SOAP, Bulk, Streaming & MuleSoft
+✅ **CI/CD & DevOps** with Jenkins, Copado & Gearset *(-40% deployment errors)*
+✅ **80%+ Apex code coverage** with bulk, negative & edge-case testing
 
 <br/>
 
